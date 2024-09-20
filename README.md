@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h0pe7
+- 👋 Hi, I’m Omid!
 - 🎓 I recently completed my BSc in Electrical and Electronic Engineering and am now diving deeper into the world of Data Science as an MSc student.
 - 💻 My journey into Data Science is fueled by my passion for solving real-world problems using Python and SQL. I love transforming raw data into meaningful insights and making data-driven decisions.
 - 👀 I’m particularly interested in AI, Machine Learning, and data engineering, and how they can be applied to create intelligent systems.
